@@ -1,7 +1,12 @@
 Bullshit I clocked up with chatgpt in a couple of hours
+
 took more hours to figure out the absolute shitshow that is google cloud platform than the actual code
+
 why is gmail api under gcp anyways?
+
 also 4o decided to fuck with me a little and decided to keep insisting `openai.ChatCompletion` was up to date cause it thought 0.28 was the latest openai api or something jfc
+
+----------
 
 - `get_uncategorized_messages`
   Ignores Google prefab labels: Promotions, Social, Updates. Cause they don't show up in inbox anyways.
